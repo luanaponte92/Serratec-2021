@@ -1,0 +1,18 @@
+console.log("Lista de Chamada - Turma do Zepa - 2021.1\n");
+console.log("1-Alice Períles Machado");
+console.log("2-Amanda Melo Silva");
+console.log("3-André Ricardo Adami Drummond Filho");
+console.log("4-Bernard Muniz Rebello");
+console.log("5-Daniel Bevilacqua Da Mata Pereira");
+console.log("6-Emerson De Mello Ramos");
+console.log("7-Erich Kenupp Ulrichsen Marcelino");
+console.log("8-Everton Da Silva Macedo");
+console.log("9-Gabriela Medeiros Prizo");
+console.log("10-Gabriel Gaspar Esteves");
+console.log("11-Giovanne Menezes Lopes");
+console.log("12-Giulia Do Nascimento");
+console.log("13-Gustavo de Almeida Machado Trigo");
+console.log("14-Israel Da Roza Borges");
+console.log("15-Jennyffer Brandão Da Silva Santos");
+console.log("16-João Victor De Melo Justino");
+console.log("17-Karine Branco");
